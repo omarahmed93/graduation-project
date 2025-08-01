@@ -7,8 +7,7 @@ This is the official repository for my graduation project at the Arab Academy fo
 ## 📌 Project Overview
 
 The goal is to build a dual-input model that leverages both:
-- **Structured data**: patient symptoms, age, and disease
-- **Unstructured data**: images such as X-rays or scanned prescriptions
+- **Unstructured data**: images such as  scanned prescriptions
 
 This allows the model to make more informed predictions and simulate a doctor's multi-modal diagnosis process.
 
