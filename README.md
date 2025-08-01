@@ -36,7 +36,6 @@ The image processing part of the project is responsible for:
 - **Integrating image features** into the prescription prediction model
 
 > Example use cases:
-> - Extract features from chest X-rays or MRI scans
 > - Analyze scanned handwritten prescriptions
 > - Enhance model performance by combining visual and textual data
 
